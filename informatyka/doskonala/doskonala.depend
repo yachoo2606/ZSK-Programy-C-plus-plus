@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511457245 source:c:\users\jan\desktop\doskonala\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<time.h>
+
+1511457388 source:c:\users\jan\desktop\informatyka\doskonala\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<time.h>
+

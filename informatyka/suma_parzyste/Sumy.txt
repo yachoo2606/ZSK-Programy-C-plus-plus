@@ -1,0 +1,4 @@
+
+Suma liczb parzystych: 304
+
+Suma liczb nie parzystych: 268

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511463176 source:c:\users\jan\desktop\parzysta_i_nieparzysta\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1511465235 source:c:\users\jan\desktop\informatyka\parzysta_i_nieparzysta\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+

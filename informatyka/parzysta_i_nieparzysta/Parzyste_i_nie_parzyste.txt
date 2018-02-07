@@ -1,0 +1,2 @@
+Ilosc liczb parzystch: 100
+Ilosc nieparzystych liczb: 100

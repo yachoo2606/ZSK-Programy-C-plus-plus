@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506695895 source:c:\users\jan\desktop\programy c++\tablice\tablice wielowymiarowe\tablice 2wymiarowe\tablica_losowe_rozne_wielkosci\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<iomanip>
+

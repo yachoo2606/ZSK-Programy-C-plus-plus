@@ -1,0 +1,11 @@
+Silnia liczby 1 wynosi: 1
+Silnia liczby 10 wynosi: 3628800
+Silnia liczby 3 wynosi: 6
+Silnia liczby 1 wynosi: 1
+Silnia liczby 8 wynosi: 40320
+Silnia liczby 0 wynosi: 1
+Silnia liczby 11 wynosi: 39916800
+Silnia liczby 2 wynosi: 2
+Silnia liczby 13 wynosi: 6227020800
+Silnia liczby 2 wynosi: 2
+Silnia liczby 2 wynosi: 2

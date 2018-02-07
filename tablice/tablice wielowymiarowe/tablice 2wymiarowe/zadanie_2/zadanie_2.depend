@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506683038 source:c:\users\jan\desktop\tablice\zadanie_2\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<iomanip>
+
+1507886103 source:c:\users\jan\desktop\programy c++\tablice\tablice wielowymiarowe\tablice 2wymiarowe\zadanie_2\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<iomanip>
+

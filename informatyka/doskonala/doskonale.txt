@@ -1,0 +1,12 @@
+liczba 231 : Nie jest doskonala.
+liczba 414 : Nie jest doskonala.
+liczba 6 : Jest doskonala.
+liczba 4124 : Nie jest doskonala.
+liczba 52451 : Nie jest doskonala.
+liczba 431 : Nie jest doskonala.
+liczba 28 : Jest doskonala.
+liczba 21421 : Nie jest doskonala.
+liczba 433214 : Nie jest doskonala.
+liczba 469 : Nie jest doskonala.
+liczba 211 : Nie jest doskonala.
+liczba 8128 : Jest doskonala.

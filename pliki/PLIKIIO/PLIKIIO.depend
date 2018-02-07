@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510305323 source:c:\users\jan\desktop\programy c++\pliki\plikiio\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505116928 source:c:\users\jan\desktop\programy c++\zadanie_tablica\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1506075729 source:c:\users\jan\desktop\programy c++\tablice\zadanie_tablica\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+

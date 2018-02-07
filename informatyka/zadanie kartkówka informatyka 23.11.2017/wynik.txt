@@ -1,0 +1,16 @@
+Dzielniki liczby: 3 : 1 3 
+Dzielniki liczby: 12 : 1 2 3 4 6 12 
+Dzielniki liczby: 7 : 1 7 
+Dzielniki liczby: 26 : 1 2 13 26 
+Dzielniki liczby: 23 : 1 23 
+Dzielniki liczby: 26 : 1 2 13 26 
+Dzielniki liczby: 12 : 1 2 3 4 6 12 
+Dzielniki liczby: 24 : 1 2 3 4 6 8 12 24 
+Dzielniki liczby: 9 : 1 3 9 
+Dzielniki liczby: 26 : 1 2 13 26 
+Dzielniki liczby: 7 : 1 7 
+Dzielniki liczby: 10 : 1 2 5 10 
+Dzielniki liczby: 5 : 1 5 
+Dzielniki liczby: 6 : 1 2 3 6 
+Dzielniki liczby: 15 : 1 3 5 15 
+Dzielniki liczby: 15 : 1 3 5 15 

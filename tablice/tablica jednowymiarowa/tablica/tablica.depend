@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504881789 source:c:\users\jan\desktop\programy c++\tablica\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+

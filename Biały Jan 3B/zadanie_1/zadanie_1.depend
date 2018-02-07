@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509704654 source:c:\users\student\desktop\bia³y jan 3b\zadanie_1\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1509704656 source:c:\users\jan\desktop\bia³y jan 3b\zadanie_1\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510912386 source:c:\users\jan\desktop\programy c++\pliki\zadanie maturalne 1\zadanie_maturalne\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511429181 source:c:\users\jan\desktop\test\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<time.h>
+
+1511453398 source:c:\users\jan\desktop\zadanie kartkówka informatyka 23.11.2017\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<time.h>
+

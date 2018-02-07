@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517471972 source:c:\users\jan\desktop\programy c++\01.02.2018\min_max_jednoczesnie\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<ctime>
+

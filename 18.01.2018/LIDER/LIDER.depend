@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516261028 source:c:\users\jan\desktop\programy c++\18.01.2018\lider\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+

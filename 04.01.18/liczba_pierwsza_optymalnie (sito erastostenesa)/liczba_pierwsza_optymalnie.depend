@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515053224 source:c:\users\jan\desktop\programy c++\informatyka\liczba_pierwsza_optymalnie\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

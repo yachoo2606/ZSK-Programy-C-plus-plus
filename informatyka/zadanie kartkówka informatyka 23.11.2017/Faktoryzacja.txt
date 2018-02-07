@@ -1,0 +1,17 @@
+
+Faktory liczby 3 :  , 3
+Faktory liczby 12 :  , 2 , 2 , 3
+Faktory liczby 7 :  , 7
+Faktory liczby 26 :  , 2 , 13
+Faktory liczby 23 :  , 23
+Faktory liczby 26 :  , 2 , 13
+Faktory liczby 12 :  , 2 , 2 , 3
+Faktory liczby 24 :  , 2 , 2 , 2 , 3
+Faktory liczby 9 :  , 3 , 3
+Faktory liczby 26 :  , 2 , 13
+Faktory liczby 7 :  , 7
+Faktory liczby 10 :  , 2 , 5
+Faktory liczby 5 :  , 5
+Faktory liczby 6 :  , 2 , 3
+Faktory liczby 15 :  , 3 , 5
+Faktory liczby 15 :  , 3 , 5

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497042144 source:c:\users\jan\desktop\kalkulator\main.cpp
+	<iostream>
+	<cmath>
+

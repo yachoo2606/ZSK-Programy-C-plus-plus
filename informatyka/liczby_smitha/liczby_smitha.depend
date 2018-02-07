@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511516806 source:c:\users\jan\desktop\informatyka\liczby_smitha\main.cpp
+	<iostream>
+	<fstream>
+

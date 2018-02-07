@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506606211 source:c:\users\jan\desktop\zadaniatablica\main.cpp
+	<iostream>
+	<string>
+
+1506602611 source:c:\users\jan\desktop\programy c++\tablice\tablica jednowymiarowa\zadaniatablica\main.cpp
+	<iostream>
+	<string>
+

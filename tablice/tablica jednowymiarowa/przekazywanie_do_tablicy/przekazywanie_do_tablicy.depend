@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505467720 source:c:\users\jan\desktop\programy c++\przekazywanie_do_tablicy\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1506075390 source:c:\users\jan\desktop\programy c++\tablice\przekazywanie_do_tablicy\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
