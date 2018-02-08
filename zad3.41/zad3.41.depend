@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1518078835 source:c:\users\jan\documents\github\zsk-programy-c-plus-plus\zad3.41\main.cpp
+1518107240 source:c:\users\jan\documents\github\zsk-programy-c-plus-plus\zad3.41\main.cpp
 	<iostream>
 	<cstdio>
+	<iomanip>
 
