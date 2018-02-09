@@ -40,7 +40,7 @@ void wczytaj_statyczne(uczen &student)
 }
 void wypisz_statyczne(uczen &student)
 {
-    cout<<setw(15)<<"Imie: "<<student.imie;
+    cout<<"Imie: "<<student.imie;
     cout<<setw(15)<<"\nNazwisko: "<<student.nazwisko;
     cout<<setw(15)<<"\nKlasa: "<<student.klasa;
     cout<<setw(15)<<"\nNumer: "<<student.numer;
@@ -71,7 +71,7 @@ void wczytaj_dynamicznie(uczen *student)
 }
 void wypisz_dynamicznie(uczen *student)
 {
-    cout<<setw(15)<<"\nImie ucznia: "<<student->imie;
+    cout<<"\nImie ucznia: "<<student->imie;
     cout<<setw(15)<<"\nNazwisko ucznia: "<<student->nazwisko;
     cout<<setw(15)<<"\nKlasa ucznia: "<<student->klasa;
     cout<<setw(15)<<"\nNumer ucznia: "<<student->numer;
