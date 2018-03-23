@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520419675 source:c:\users\jan\desktop\zadanie3_44\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1520493176 source:c:\users\jan\desktop\struktury\zadanie3_44\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+
+1520493237 source:c:\users\janbi\desktop\struktury\zadanie3_44\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+

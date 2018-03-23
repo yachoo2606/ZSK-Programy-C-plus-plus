@@ -1,0 +1,11 @@
+2
+Warszawa-Monachium
+300
+812
+1.40
+LOT
+Poznan-Madryt
+400
+2058
+3.20
+LOT
