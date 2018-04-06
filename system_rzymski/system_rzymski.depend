@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522913673 source:c:\users\janbi\desktop\system_rzymski\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
