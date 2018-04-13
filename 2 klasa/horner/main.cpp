@@ -8,8 +8,9 @@ int Horner(int p, string liczba)
     for (int i=1;i<n;i++)
     {
         w=w*p+liczba[i]-48;
-    };
-    return w;}
+    }
+    return w;
+}
 int main()
 {
     string liczba;
