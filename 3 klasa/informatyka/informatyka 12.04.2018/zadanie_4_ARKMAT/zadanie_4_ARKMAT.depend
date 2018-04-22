@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523521197 source:c:\users\janbi\desktop\zadanie_4_arkmat\main.cpp
+	<iostream>
+	<fstream>
+

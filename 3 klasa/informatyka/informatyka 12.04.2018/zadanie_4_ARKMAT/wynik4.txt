@@ -1,0 +1,14 @@
+Wynik zad 4.1: 422
+
+Wynik zad 4.2 przez 2: 500
+
+Wynik zad 4.2 przez 8: 123
+
+
+Zadanie 4.3
+
+Najmniejsza liczba jest na: 801
+Najwieksza liczba jest na: 643
+=========================
+nie do koñca dzia³a 4.3
+=========================

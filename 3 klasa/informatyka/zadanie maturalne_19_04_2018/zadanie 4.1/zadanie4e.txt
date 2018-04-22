@@ -1,0 +1,4 @@
+18
+
+Najdluzszy napis dwucykliczny: 00100101100011100010010110001110
+O dlugosci: 32

@@ -1,0 +1,14 @@
+
+Zadanie 1
+Najwieksza jest liczba (zapisana osemkowo): 777044
+
+Najmniejsza jest liczba (zapisana osemkowo): 1002
+Zadanie 2
+liczby o tych samych wartosciach: 160
+
+liczb wiekszych w pierwszymm pliku jest: 357
+
+Zadanie 3
+Ilosc 6 w dzesietnych liczbach: 411
+
+Ilosc 6 w osemkowych liczbach: 625
